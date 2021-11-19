@@ -1,8 +1,8 @@
 ## Olá! 👋 Eu sou o Diego Maia Santos.
 
-- 🔭 Atualmente sou motorista de APP.
-- 🌱 Estou cursando tecnólogo em ADS.
-- 🌱 Também estou estudando JavaScript.
+- 🔭 Atualmente motorista de APP e estagiário de TI na Farmácias Pague Menos.
+- 🌱 Estou cursando Análise e desenvolvimento de sistemas.
+- 🌱 Também estou estudando a stack HTML5, CSS3 e JavaScript.
 - 😄 Pronomes: Ele/Dele
 ##
 <div>
