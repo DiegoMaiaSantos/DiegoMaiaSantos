@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente motorista de APP e estagiário de TI na Farmácias Pague Menos.
 - 🌱 Estou cursando Análise e desenvolvimento de sistemas - 2° Semestre.
-- 🌱 Também estou estudando a stack em HTML5, CSS3 e JS.
+- 🌱 Também estou estudando a stack em HTML5, CSS3 e JavaSscript.
 - 😄 Pronomes: Ele/Dele
 ##
 <div>
