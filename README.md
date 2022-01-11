@@ -3,7 +3,7 @@
 - 🔭 Estagiário de TI na Empreendimentos Pague Menos S.A.
 - 🌱 Estou cursando Análise e desenvolvimento de sistemas - 3° Semestre.
 - 🌱 Também estou estudando a stack em HTML5, CSS3, JavaSscript e C#.
-- 😄 Pronomes: Ele/Dele
+
 ##
 <div>
   <a href="https://github.com/DiegoMaiaSantos">
