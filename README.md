@@ -2,14 +2,13 @@
 
 - 🔭 Estagiário de TI na Empreendimentos Pague Menos S.A.
 - 🌱 Estou cursando Análise e desenvolvimento de sistemas - 3° Semestre.
-- 🌱 Também estou estudando a stack em HTML5, CSS3, JavaSscript e C#.
-- 😄 Pronomes: Ele/Dele
+- 🌱 Também estou estudando a stack em HTML5, CSS3, JavaSscript e C#. 
 ##
-<div align="center">
+  <div align="center">
   <a href="https://github.com/DiegoMaiaSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoMaiaSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMaiaSantos&layout=compact&langs_count=7&theme=dracula"/>
-</div>  
+</div>
   <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
