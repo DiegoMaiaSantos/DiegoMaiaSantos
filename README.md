@@ -1,8 +1,9 @@
 ## Olá! 👋 Eu sou o Diego Maia Santos.
 
-- 🔭 **Estagiário de suporte N1 e N2** na Empreendimentos **Pague Menos** S.A.
-- 🌱 Estou cursando **Análise e desenvolvimento de sistemas** - **3° Semestre**.
-- 📚 Também estou estudando a **stack** em **HTML5**, **CSS3**, **JavaSscript** e **C#**. 
+- 🔭 Estagiário em Desenvolvimento de Sistemas na Empreendimentos Pague Menos S.A.
+- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas - 3° Semestre.
+- 🌱 Estudando a stack em C#, .Net Core, Entity Framework e MySQL.
+- 📚 Conhecimento básico em HTML5, CSS3 e JavaScript. 
 ##
   <div align="center">
   <a href="https://github.com/DiegoMaiaSantos">
