@@ -2,7 +2,7 @@
 
 - 🔭 Estagiário em Desenvolvimento de Sistemas na Empreendimentos Pague Menos S.A.
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas - 3° Semestre.
-- 🌱 Estudando a stack em C#, .Net Core, Entity Framework e MySQL.
+- 🌱 Estudando a stack em C#, ASP.Net Core, Entity Framework, MySQL e SQL server.
 - 📚 Conhecimento básico em HTML5, CSS3 e JavaScript. 
 ##
   <div align="center">
