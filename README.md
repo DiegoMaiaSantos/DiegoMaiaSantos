@@ -2,8 +2,9 @@
 
 - 🔭 Estagiário em Desenvolvimento de Sistemas na Empreendimentos Pague Menos S.A.
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas - 4° Semestre.
-- 🌱 Estudando a stack em C#, .Net, .Net Core, ASP.Net Core, Entity Framework e SQL server.
-- 📚 Conhecimento básico em HTML5, CSS3, JavaScript e MySQL. 
+- 💻 Estagiando com a stack em C#, .NET, .NET Core, ASP.NET Core, Dapper, Entity Framework e SQL server.
+- 📚 Conhecimento básico em HTML5, CSS3 e JavaScript. 
+- 🌱 Tenho interesse em aprender React.JS, Vue.JS e MongoDB
 ##
   <div align="center">
   <a href="https://github.com/DiegoMaiaSantos">
