@@ -1,10 +1,10 @@
 ## Olá! 👋 Eu sou o Diego Maia Santos.
 
 - 🔭 Estagiário em Desenvolvimento de Sistemas na Empreendimentos Pague Menos S.A.
-- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas - 4° Semestre.
 - 💻 Estagiando com a stack em C#, .NET, .NET Core, ASP.NET Core, Dapper, Entity Framework e SQL server.
-- 📚 Conhecimento básico em HTML5, CSS3 e JavaScript. 
-- 🌱 Tenho interesse em aprender React.JS, Vue.JS e MongoDB
+- 📚 Estudando a stack em HTML5, CSS3 e JavaScript. 
+- 🌱 Tenho interesse em aprender TypeScript, React.JS, Vue.JS e MongoDB
+- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas - 4° Semestre.
 ##
   <div align="center">
   <a href="https://github.com/DiegoMaiaSantos">
