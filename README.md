@@ -1,10 +1,10 @@
 ## Olá! 👋 Eu sou o Diego Maia Santos.
 
-- 🔭 Estagiário em Desenvolvimento de Sistemas na Empreendimentos Pague Menos S.A.
-- 💻 Estagiando com a stack em C#, .NET, .NET Core, ASP.NET Core, Dapper, Entity Framework e SQL server.
-- 📚 Estudando a stack em HTML5, CSS3 e JavaScript. 
-- 🌱 Tenho interesse em aprender TypeScript, React.JS, Vue.JS e MongoDB
-- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas - 4° Semestre.
+- 🔭 Desenvolvedor de Sistemas Backend Júnior na FitBank.
+- 💻 Trabalhando com a stack em C#, .NET, .NET Core, ASP.NET Core, Entity Framework e SQL server.
+- 📚 Estudando a stack em C#, .NET, .NET Core, ASP.NET Core, Entity Framework e SQL server. 
+- 🌱 Tenho interesse em aprender JavaScript, TypeScript, React.JS, Vue.JS e MongoDB
+- 👨‍🎓 Formando no curso de Análise e Desenvolvimento de Sistemas - Último Semestre.
 ##
   <div align="center">
   <a href="https://github.com/DiegoMaiaSantos">
