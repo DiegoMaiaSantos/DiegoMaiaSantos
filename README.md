@@ -3,8 +3,8 @@
 - 🔭 Desenvolvedor de Sistemas Backend Júnior na FitBank.
 - 💻 Trabalhando com a stack em C#, .NET, ASP.NET Core e SQL server.
 - 📚 Estudando a stack em C#, .NET, ASP.NET Core, Entity Framework e SQL server. 
-- 🌱 Tenho interesse em aprender JavaScript, TypeScript, React.JS, Vue.JS e MongoDB
-- 👨‍🎓 Formando no curso de Análise e Desenvolvimento de Sistemas - Último Semestre.
+- 🌱 Tenho interesse em aprender JavaScript, TypeScript, React.JS, Vue.JS e MongoDB.
+- 👨‍🎓 Formado no curso de Análise e Desenvolvimento de Sistemas.
 ##
   <div align="center">
   <a href="https://github.com/DiegoMaiaSantos">
