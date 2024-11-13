@@ -1,10 +1,13 @@
 ## Olá! 👋 Eu sou o Diego Maia Santos.
 
-- 🔭 Desenvolvedor de Sistemas Backend Júnior na FitBank.
-- 💻 Trabalhando com a stack em C#, .NET, ASP.NET Core e SQL server.
-- 📚 Estudando a stack em C#, .NET, ASP.NET Core, Entity Framework e SQL server. 
-- 🌱 Tenho interesse em aprender JavaScript, TypeScript, React.JS, Vue.JS e MongoDB.
-- 👨‍🎓 Formado no curso de Análise e Desenvolvimento de Sistemas.
+- 🔭 Desenvolvedor de Sistemas Pleno na SysDesignUX.
+- 💻 Trabalhando com a stack **back-end: C#, .NET (4.8, 5, 6, 7 e 8), ASP.NET Core e SQL Server.**
+- 💻 Trabalhando com a stack **front-end: MVC, Bootstrap, jQuery e JavaScript.**
+- 📚 Estudando a stack em Angular.JS e React.JS. 
+- 🌱 Tenho interesse em aprender Node.JS e Vue.JS.
+- 👨‍🎓 Formado no curso de Análise e Desenvolvimento de Sistemas **2023**.
+- 👨‍🎓 Pós-Graduado em Densenvolvimento FullStack **2024**.
+- 👨‍🎓 Pós-Graduado em Arquitetura de Software **2024**.
 ##
   <div align="center">
   <a href="https://github.com/DiegoMaiaSantos">
