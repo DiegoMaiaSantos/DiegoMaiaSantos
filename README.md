@@ -6,7 +6,7 @@
 - 📚 Estudando a stack em Angular.JS e React.JS. 
 - 🌱 Tenho interesse em aprender Node.JS e Vue.JS.
 - 👨‍🎓 Formado no curso de Análise e Desenvolvimento de Sistemas **2023**.
-- 👨‍🎓 Pós-Graduado em Densenvolvimento FullStack **2024**.
+- 👨‍🎓 Pós-Graduado em Desenvolvimento FullStack **2024**.
 - 👨‍🎓 Pós-Graduado em Arquitetura de Software **2024**.
 ##
   <div align="center">
