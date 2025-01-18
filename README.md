@@ -6,7 +6,7 @@
 - 📚 **Estudando:** Angular.JS e React.JS. 
 - 🌱 **Interesse em aprender:** Node.JS e Vue.JS.
 - 👨‍🎓 **Formação:** Análise e Desenvolvimento de Sistemas (2023).
-- 👨‍🎓 **Pós-Graduação:** Desenvolvimento FullStack (2024) e Arquitetura de Software (2024).
+- 👨‍🎓 **Pós-Graduação:** Desenvolvimento FullStack (2024) e Arquitetura de Software (2025).
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&color=239120)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white&color=512BD4)
