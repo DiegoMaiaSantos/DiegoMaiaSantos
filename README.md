@@ -1,9 +1,9 @@
 ## Olá! 👋 Eu sou o Diego Maia Santos.
 
-- 🔭 **Desenvolvedor de Sistemas Pleno** na SysDesignUX.
+- 🔭 **Desenvolvedor .NET Pleno** na SysDesignUX.
 - 💻 **Back-end:** C#, .NET (4.8, 5, 6, 7 e 8), ASP.NET Core, SQL Server
 - 💻 **Front-end:** MVC, Bootstrap, jQuery, JavaScript.
-- 📚 **Estudando:** Angular.JS e React.JS. 
+- 📚 **Estudando:** Docker, Kubernetes, Node.JS, Vue.JS e React.JS. 
 - 🌱 **Interesse em aprender:** Node.JS e Vue.JS.
 - 👨‍🎓 **Formação:** Análise e Desenvolvimento de Sistemas (2023).
 - 👨‍🎓 **Pós-Graduação:** Desenvolvimento FullStack (2024) e Arquitetura de Software (2025).
