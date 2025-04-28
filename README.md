@@ -1,12 +1,13 @@
 ## Olá! 👋 Eu sou o Diego Maia Santos.
 
-- 🔭 **Desenvolvedor .NET Pleno** na SysDesignUX.
-- 💻 **Back-end:** C#, .NET (4.8, 5, 6, 7 e 8), ASP.NET Core, SQL Server
-- 💻 **Front-end:** MVC, Bootstrap, jQuery, JavaScript.
-- 📚 **Estudando:** Docker, Kubernetes, Node.JS, Vue.JS e React.JS. 
-- 🌱 **Interesse em aprender:** Node.JS e Vue.JS.
-- 👨‍🎓 **Formação:** Análise e Desenvolvimento de Sistemas (2023).
-- 👨‍🎓 **Pós-Graduação:** Desenvolvimento FullStack (2024) e Arquitetura de Software (2025).
+- 🔭 **Desenvolvedor .NET Pleno** na Camed Saúde | Fundador da SysDesignUX (em pausa).
+- 💻 **Back-end:** C# | .NET | ASP.NET Core | SQL Server | APIs RESTful
+- 💻 **Front-end:** ASP.NET MVC | Blazor | Bootstrap | jQuery | JavaScript
+- 📚 **Atualmente estudando:** Docker | Kubernetes | Angular | XUnit
+- 🌱 **Interesses futuros:** Node.js | Vue.js
+- 🏗 **Diferenciais:** Experiência prática com DDD, SOLID, liderança de projetos próprios, perfil autodidata e alta disciplina.
+- 👨‍🎓 **Formação:** Análise e Desenvolvimento de Sistemas (2023)
+- 🎓 **Pós-graduação:** Desenvolvimento FullStack - 2024 | Arquitetura de Software - 2025
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&color=239120)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white&color=512BD4)
